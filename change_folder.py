@@ -17,5 +17,5 @@ def rename_folder(folder_path, num):
         print(f"An error occurred: {e}")
 
 # Usage Example
-folder_path = "height_5_for_mix"
-rename_folder(folder_path, 126)
+folder_path = "height_3"
+rename_folder(folder_path, 146)
